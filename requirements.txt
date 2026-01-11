@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+torchvision
+Pillow
+opencv-python
+lama-cleaner
+python-multipart
